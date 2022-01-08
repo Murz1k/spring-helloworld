@@ -9,4 +9,5 @@ public class Cat {
     public void setName(String name) {
         this.name = name;
     }
+
 }
